@@ -1,0 +1,30 @@
+{
+  "name": "package-manipulator",
+  "description": "Manipulates Node.js packages",
+  "keywords": [],
+  "version": "0.1.0",
+  "author": "Braveg1rl <braveg1rl@outlook.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/braveg1rl/package-manipulator",
+  "bugs": "https://github.com/braveg1rl/package-manipulator/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/braveg1rl/package-manipulator.git"
+  },
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.12.2",
+    "mocha": "^3.2.x"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "6.x.x"
+  },
+  "main": "lib/package-manipulator.js",
+  "scripts": {
+    "prepublish": "npm test",
+    "pretest": "make build",
+    "test": "make test"
+  }
+}
