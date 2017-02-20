@@ -1,5 +1,7 @@
 # package-manipulator [![Build Status](https://travis-ci.org/braveg1rl/package-manipulator.png?branch=master)](https://travis-ci.org/braveg1rl/package-manipulator) [![Dependency Status](https://david-dm.org/braveg1rl/package-manipulator.png)](https://david-dm.org/braveg1rl/package-manipulator)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/braveg1rl/package-manipulator.svg)](https://greenkeeper.io/)
+
 Manipulates Node.js packages
 
 ## Usage
